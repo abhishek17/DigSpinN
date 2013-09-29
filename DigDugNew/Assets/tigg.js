@@ -18,7 +18,7 @@ void OnCollisionStay(Collision col)
   */      
  function OnCollisionStay (col : Collision)
 {
-    if(col.gameObject.name == "Cube")
+    if(col.gameObject.name == "Stone")
     {
         Destroy(col.gameObject);
         //col.rigidbody.AddForce(-transform.forward*50);

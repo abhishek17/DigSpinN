@@ -1,12 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Destroy.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Gravityy.js">
     <Files>
-      <File FileName="Assets\tigg.js" Line="23" Column="9" />
-      <File FileName="Assets\Gravityy.js" Line="42" Column="27" />
-      <File FileName="Assets\slip.js" Line="25" Column="9" />
-      <File FileName="Assets\Controls.js" Line="23" Column="23" />
-      <File FileName="Assets\DirtRem.js" Line="3" Column="2" />
+      <File FileName="Assets\tigg.js" Line="1" Column="1" />
+      <File FileName="Assets\Gravityy.js" Line="46" Column="4" />
+      <File FileName="Assets\slip.js" Line="1" Column="1" />
+      <File FileName="Assets\Controls.js" Line="1" Column="1" />
+      <File FileName="Assets\DirtRem.js" Line="1" Column="1" />
       <File FileName="Assets\Destroy.js" Line="8" Column="97" />
     </Files>
   </MonoDevelop.Ide.Workbench>
