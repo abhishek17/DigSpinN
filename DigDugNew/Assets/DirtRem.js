@@ -2,9 +2,9 @@
 
  function OnCollisionEnter (col : Collision)
 {
-    if(col.gameObject.name == "Player")
+    if(col.gameObject.name == "Dirt")
     {
-        Destroy(gameObject);
+        Destroy(col.gameObject);
         //col.rigidbody.AddForce(-transform.up*5, ForceMode.Acceleration);
         //Debug.Log("bla bla");
     }

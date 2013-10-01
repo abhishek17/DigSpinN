@@ -48,6 +48,8 @@
      <Compile Include="Assets\Destroy.js" />
      <Compile Include="Assets\DirtRem.js" />
      <Compile Include="Assets\Gravityy.js" />
+     <Compile Include="Assets\PlayerRotate.js" />
+     <Compile Include="Assets\Power.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\FirstPersonControl.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\FollowTransform.js" />
